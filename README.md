@@ -42,11 +42,7 @@
 
 ---
 
-## 🏆 3D Contribution Graph
 
-<p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=cyber-explorer-cell&theme=monochrome" alt="3D Contribution Graph" />
-</p>
 
 ---
 
@@ -60,8 +56,10 @@
 
 ## 📫 How to reach me
 
-- [LinkedIn](https://www.linkedin.com/)
-- Email: your-email@example.com
+- [LinkedIn]
+- Email:
+
+
 
 ---
 
